@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+
+.menu {
+  background-color: #fbfbec;
+  color: #132726;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 3.125rem;
+}
+h1 {
+  font-size: 3.125rem;
+  font-weight: 100;
+  font-family: Kepler;
+}
+
+a:link {
+  text-decoration: none;
+  padding: 0.25rem;
+  font-family: "Montserrat", sans-serif;
+  padding: 1.25rem;
+}
+
+@font-face {
+  font-family: Kepler;
+  src: url(/src/Components/Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}

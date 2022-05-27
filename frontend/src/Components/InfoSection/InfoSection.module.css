@@ -1,0 +1,69 @@
+.contenido {
+  background-color: #fbfbec;
+}
+.inicio {
+  padding-top: 3.125rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: #fbfbec;
+}
+.titulo {
+  margin-top: 1.25rem;
+  color: #1a3336;
+  font-family: Kepler;
+  font-size: 2.5rem;
+}
+.texto {
+  margin-top: 1.25rem;
+  margin-left: 12.5rem;
+  margin-right: 12.5rem;
+  font-family: GoghBook;
+  padding-bottom: 4.375rem;
+}
+.textotit {
+  margin-left: 3.125rem;
+  text-align: left;
+  font-size: 1.5625rem;
+  padding-top: 6.25rem;
+  font-family: Kepler;
+  color: white;
+}
+.textocont {
+  margin-top: 1.25rem;
+  margin-left: 3.125rem;
+  font-family: GoghBook;
+  color: white;
+  text-align: left;
+}
+.medio {
+  padding-bottom: 3.75rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(17, 46, 44);
+}
+.fundador {
+  padding-top: 5.625rem;
+  padding-bottom: 4.375rem;
+  font-family: Kepler;
+  font-size: 3.125rem;
+  color: white;
+}
+.contenedor {
+  margin-left: 3.125rem;
+  margin-right: 3.125rem;
+  display: flex;
+}
+.prueba {
+  background-color: black;
+}
+
+@font-face {
+  font-family: Kepler;
+  src: url(/src/Components/Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

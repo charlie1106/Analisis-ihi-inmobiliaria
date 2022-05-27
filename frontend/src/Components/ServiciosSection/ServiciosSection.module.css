@@ -1,0 +1,18 @@
+.contenido {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  padding: 20px;
+  background-color: rgb(13, 33, 35);
+  font-family: "Playfair Display", serif;
+}
+
+h2 {
+  font-weight: 200;
+}
+
+.texto {
+  padding: 50px;
+  color: rgb(255, 255, 255);
+}

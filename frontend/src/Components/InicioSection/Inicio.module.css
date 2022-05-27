@@ -1,0 +1,56 @@
+.contenido {
+  background-color: #fbfbec;
+}
+.contenedor {
+  display: flex;
+  background-color: #143434;
+  padding: 50px;
+}
+.textoimg {
+  width: 100%;
+  margin-left: 80px;
+  margin-right: 80px;
+  background-color: rgba(255, 255, 255, 0.349);
+}
+.texto {
+  margin-top: 80px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: white;
+  font-family: Kepler;
+  font-size: 80px;
+  text-align: center;
+}
+.nuestros {
+  text-align: center;
+  font-family: Kepler;
+  font-size: 50px;
+}
+.servicios {
+  padding-top: 100px;
+  text-align: center;
+  color: #143434;
+}
+.info {
+  font-family: GoghBook;
+  font-size: 20px;
+}
+.casa {
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  background-color: #143434;
+  padding-right: auto;
+}
+.imagen {
+  width: 100%;
+  height: 100%;
+}
+@font-face {
+  font-family: Kepler;
+  src: url(../Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

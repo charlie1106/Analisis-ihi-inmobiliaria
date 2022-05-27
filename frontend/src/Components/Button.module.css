@@ -1,0 +1,18 @@
+button {
+  border: none;
+  width: 9.375rem;
+  height: 3.125rem;
+  font-family: GoghBook;
+  text-transform: uppercase;
+  color: white;
+  background-color: #1a3336;
+}
+button:hover {
+  color: black;
+  background-color: #1a3336a1;
+}
+
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

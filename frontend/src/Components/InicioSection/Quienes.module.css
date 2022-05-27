@@ -1,0 +1,36 @@
+.contenedor {
+  padding-top: 7.5rem;
+  padding-bottom: 3.125rem;
+  background-color: #143434;
+}
+.titulo {
+  font-family: Kepler;
+  color: white;
+  font-size: 3.125rem;
+  text-align: center;
+}
+.texto1 {
+  margin-top: 1.25rem;
+  font-family: GoghBook;
+  font-size: 1.125rem;
+  color: white;
+  text-align: center;
+}
+.texto2 {
+  margin-top: 1.25rem;
+  font-family: GoghBook;
+  font-size: 1rem;
+  color: white;
+  text-align: center;
+  margin-left: 15.625rem;
+  margin-right: 15.625rem;
+}
+
+@font-face {
+  font-family: Kepler;
+  src: url(/src/Components/Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

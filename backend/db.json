@@ -1,0 +1,134 @@
+{
+  "services": [
+    {
+      "name": "Venta y Arriendo",
+      "link": "ventaArriendo",
+      "descripcion": "Encuentra aquí todo tipo de lugares acomodados a todo lo que necesitas y a los mejores precios",
+      "imagen": "https://static.wixstatic.com/media/3acb76_094f79b345be425db65049ab752f2b0a~mv2.jpg/v1/fill/w_603,h_400,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_094f79b345be425db65049ab752f2b0a~mv2.webp"
+    },
+    {
+      "name": "Administración",
+      "link": "administracion",
+      "descripcion": "Proporcionamos servicio de administración para conjuntos residenciales y clubes",
+      "imagen": "https://static.wixstatic.com/media/3acb76_7c4db3606a694cc39a4040d3aba4736a~mv2.jpg/v1/fill/w_603,h_400,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_7c4db3606a694cc39a4040d3aba4736a~mv2.webp"
+    },
+    {
+      "name": "Avalúos",
+      "link": "avaluos",
+      "descripcion": "Brindamos asesoría especializada para determinar el valor comercial de su bien",
+      "imagen": "https://static.wixstatic.com/media/3acb76_4cfebc198f034fce9228d01e6288b46b~mv2.jpg/v1/fill/w_603,h_400,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_4cfebc198f034fce9228d01e6288b46b~mv2.webp"
+    }
+  ],
+  "inmueblesVenta": [
+    {
+      "id": 1,
+      "area": "80m^2",
+      "descripcion": "Diseño y distribución de alcobas para mayor independencia con variedad de zonas comunes con piscina, canchas y mucho más. Pregunta por los Kits de acabados.",
+      "name": "Apartaestudio",
+      "precio": "$630.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_e0061ae5a249459fa2347e1c468e37c9~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_e0061ae5a249459fa2347e1c468e37c9~mv2.webp"
+    },
+    {
+      "id": 2,
+      "area": "80m^2",
+      "descripcion": "Diseño y distribución de alcobas para mayor independencia con variedad de zonas comunes con piscina, canchas y mucho más. Pregunta por los Kits de acabados.",
+      "name": "Apartamento",
+      "precio": "$1'200.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.webp"
+    },
+    {
+      "id": 3,
+      "area": "80m^2",
+      "descripcion": "Bodega en el sector industrial de siberia via Medellin, esta cuenta con 1. 600 M2 de área construida, cuenta con un área libre de bodega de 1. 400 y 200 M2 de oficinas se encuentra en parque industrial",
+      "name": "Bodega",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 4,
+      "area": "80m^2",
+      "descripcion": "1 alcoba ,1 baño",
+      "name": "Apartamento",
+      "precio": "$1'200.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    }
+  ],
+  "inmueblesArriendo": [
+    {
+      "id": 1,
+      "area": "80m^2",
+      "descripcion": "1 alcoba ,1 baño",
+      "name": "Casa",
+      "precio": "$1'200.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.webp"
+    },
+    {
+      "id": 2,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Apartaestudio",
+      "precio": "$630.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_e0061ae5a249459fa2347e1c468e37c9~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_e0061ae5a249459fa2347e1c468e37c9~mv2.webp"
+    },
+    {
+      "id": 4,
+      "name": "Apartamento",
+      "precio": "$1'200.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_8bff19275b2e450aaf1b9d310d7ded01~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    },
+    {
+      "id": 5,
+      "name": "Apartamento",
+      "precio": "$2'000.000",
+      "imagen": "https://static.wixstatic.com/media/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.jpg/v1/fill/w_386,h_240,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01/3acb76_f14bdb4d12da45a89029491478e8af43~mv2.webp"
+    }
+  ],
+  "users": [
+    {
+      "name": "Carlos",
+      "email": "8a11jimenezc@gmail.com",
+      "pass": "prueba",
+      "id": 7
+    },
+    {
+      "name": "Carlos",
+      "email": "pruebita@gmail.com",
+      "pass": "1234",
+      "id": 8
+    }
+  ]
+}

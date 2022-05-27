@@ -1,0 +1,37 @@
+.contenedor {
+  padding-top: 3.75rem;
+  padding-bottom: 3.125rem;
+}
+.contenedorcard {
+  display: flex;
+  flex-flow: row;
+  padding: 3.125rem;
+  align-items: center;
+}
+.card {
+  display: flex;
+  flex-flow: column;
+  padding-right: 3.75rem;
+}
+.imagen {
+  width: 3.75rem;
+  height: 3.75rem;
+  margin: auto;
+}
+.titulocard {
+  font-size: 1.875rem;
+  font-family: Kepler;
+}
+.textocard {
+  font-size: 1.0625rem;
+  font-family: GoghBook;
+}
+
+@font-face {
+  font-family: Kepler;
+  src: url(/src/Components/Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

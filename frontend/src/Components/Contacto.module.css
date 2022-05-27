@@ -1,0 +1,23 @@
+.contenido {
+  padding-top: 4.375rem;
+  padding-left: 9.375rem;
+  padding-bottom: 2.5rem;
+}
+.titulo {
+  font-family: Kepler;
+  font-size: 3.125rem;
+  color: #1a3336;
+}
+.texto {
+  font-family: GoghBook;
+  color: #1a3336;
+}
+
+@font-face {
+  font-family: Kepler;
+  src: url(./Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+@font-face {
+  font-family: GoghBook;
+  src: url(/src/Components/Fonts/Gogh-Book.ttf);
+}

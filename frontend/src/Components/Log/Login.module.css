@@ -1,0 +1,43 @@
+.divider {
+  background-color: #143434;
+  width: fit-content;
+  padding: 60px;
+  margin: auto;
+  text-align: center;
+  border-radius: 5px;
+}
+.fondo{
+  background-color: #fbfbec;
+}
+.tituloL {
+  color: aliceblue;
+  padding-bottom: 20px;
+}
+
+.linkT:visited {
+  color: aliceblue;
+}
+.linkT {
+  font-size: 14px;
+}
+.linkT:hover {
+  color: #7db8a1;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #7db8a1;
+  margin: 10px;
+  color: #ffffff;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #73a592;
+  font-size: 17px;
+  font-weight: bold;
+  color: #ffffff;
+}

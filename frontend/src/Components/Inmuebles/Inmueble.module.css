@@ -1,0 +1,111 @@
+@font-face {
+  font-family: Kepler;
+  src: url(/src/Components/Fonts/Kepler\ Std\ Semicondensed\ Subhead.otf);
+}
+.contenido {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(251, 251, 236);
+  padding-bottom: 5rem;
+}
+p,
+h3,
+h2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+h3,
+h2 {
+  font-size: 3.125rem;
+  font-weight: 100;
+  font-family: Kepler;
+}
+
+.nombreService {
+  padding-bottom: 1.875rem;
+}
+
+.imageDiv {
+  width: 23rem;
+  height: 15rem;
+  margin-top: 4rem;
+}
+.imageDivUno {
+  width: 23rem;
+  height: 15rem;
+  margin: 2.5rem;
+}
+
+.image {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+h3 {
+  font-size: 0.625rem;
+}
+.nameInmueble {
+  font-size: 1.875rem;
+  margin-bottom: 0%;
+  margin-top: -5%;
+}
+p {
+  margin-top: -3%;
+}
+a:link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(0, 0, 0);
+
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+}
+
+.texto {
+  width: 23rem;
+  height: 15rem;
+  margin-top: 3rem;
+  margin-left: 12.5rem;
+  padding: 0.3125rem;
+}
+.mapa {
+  padding: 50px;
+  background-color: #fbfbec;
+}
+
+.comentario {
+  padding: 30px;
+  display: block;
+  justify-content: start;
+  text-align: start;
+  margin: 10px;
+  margin-left: 25px;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+
+.comentarioInfo {
+  justify-content: start;
+  text-align: start;
+  padding-bottom: 10px;
+}
+
+.inputComment {
+  border-color: rgb(191, 191, 195);
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  display: block;
+  margin-bottom: 30px;
+  margin-top: 45px;
+  border-width: 1.5px;
+  width: 100%;
+}
